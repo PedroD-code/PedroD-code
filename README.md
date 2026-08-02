@@ -1,12 +1,12 @@
-<p data-importer="text" align="left">Olá, meu nome é Pedro Dionísio</p>
+<h2 data-importer="text" align="left">Olá meu nome é Pedro Dionísio</h2>
 
 ###
 
-<h2 data-importer="text" align="left">Sobre mim</h2>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/PedroD-code/PedroD-code/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroD-code/PedroD-code/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroD-code/PedroD-code/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroD-code/PedroD-code/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ###
 
